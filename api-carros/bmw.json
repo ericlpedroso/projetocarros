@@ -1,0 +1,72 @@
+[
+{
+"modelo": "Sedan" ,
+"nome": "BMW i7 xDrive60 M Sport" ,
+"cv": "544cv",
+"motor": "elétrico",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9WuPFN0aQoGawhCv3ydq7E2H8zlpI_bK7CcctPx260HGZADa1"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X6" ,
+"cv": "381cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfjBNpk93LpKgo2g1agalcHnFNSMw4LoKDuyqJc9cUNv5qzUF"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X5" ,
+"cv": "489cv",
+"motor": "híbrido",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-vQw6JVtr3GgGJKSM6ZD4yyYbJ6V5i9a6_zdxxC95SLvfD_D"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X4" ,
+"cv": "252cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKGRRGOJNn4yegOHmEFtojAP9CPXNlKND9JWR0gfixgLv2MZ1"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X3" ,
+"cv": "387cv",
+"motor": "híbrido",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GtTGxZdGyi09pPEy48kOu05WJus0FGKlMJcxUfCrh_GY8cah"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X1" ,
+"cv": "156cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBKYw-H7rsNnNR0qvNbEJtZ8bBqb4arwu-m29DC8o6JrgejOdW"
+},
+{
+"modelo": "Sedan" ,
+"nome": "BMW M3 Competition" ,
+"cv": "510cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU_gAJpXmAUqVC417GxcXgT6YnUYosQzgCy4Q9TqWydSQPDqFh"
+},
+{
+"modelo": "Sedan" ,
+"nome": "BMW Série 5 Sedã" ,
+"cv": "427cv",
+"motor": "híbrido",
+"foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwUYTgxCoFMQK7RJd-KNrpflazEyAgsYdMvf14RNLk9llElZdW"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "BMW Série 4 Cabrio" ,
+"cv": "184cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7ucwKjbI41zYJ9Fs6RTevFuSb8jpcM2LcBW7t4ygnLKLzQnC"
+},
+{
+"modelo": "Sedan" ,
+"nome": "BMW i4" ,
+"cv": "544cv",
+"motor": "elétrico",
+"foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfKIA9Ec0Ljfv8KedoxbelYincCB4lEIIGjM_iuAfO2WuEyYVp"
+}
+]

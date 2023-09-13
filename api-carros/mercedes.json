@@ -1,0 +1,72 @@
+[
+ {
+   "modelo": "Sedan",
+   "nome": "Mercedes EQE",
+   "cv": "245cv",
+   "motor": "Elétrico",
+   "foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJLGqBa9mj5T7UUDIYviCPIFAqLQJdM7fRGkF1c9F77fNKy0Vr"
+ },
+ {
+   "modelo": "Sedan",
+   "nome": "Mercedes EQS",
+   "cv": "658cv",
+   "motor": "Elétrico",
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa4iziOTWwsCIKtS5ZVA_O2-_lft3TsZdAYAkFFWYuQwxoShEz"
+ },
+ {
+   "modelo": "Sedan",
+   "nome": "Mercedes Classe A Sedan",
+   "cv": "320cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHKYtiDRRRogzISQ28UOwBTnBuwR2BcNK55Okd4w6waAufe5N"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes EQA",
+   "cv": "190cv",
+   "motor": "Elétrico",
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXaeAm_Q6YXpPjaWxULoiOs9wPZlau14qUt1H21NWVDDtXkdkX"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes GLA",
+   "cv": "163cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJFgDlJiHUSSnIslOWpaCpP3-184K-yOQuCCHzXu_M4Swupzq"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes GLC Coupé",
+   "cv": "258cv",
+   "motor": "Híbrido",
+   "foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgkhaoRx40JnGHTvj_00t8dNXD15LMwbB3-OvYCgtjMo9AuEAM"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes GLS",
+   "cv": "367cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrvhZaJGg8noiZNp6Mv-bgHveQ5D8xb_mQ3wZfSM_NH0JszLyp"
+ },
+{
+   "modelo": "Hatch",
+   "nome": "Mercedes Classe A Hatch",
+   "cv": "163cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTIqHcFB3sZjhV6Lmnd-MI4dkny0BSUBEBQ1I-59ApTCXpQQuG"
+ },
+{
+   "modelo": "Coupé",
+   "nome": "Mercedes CLA Coupé",
+   "cv": "421cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQULOQwe-U1d_PBLYaYX_AwX8NfKIdYc07xlR8pQBXpLIdweO8x"
+ },
+{
+   "modelo": "Sedan",
+   "nome": "Mercedes C 200 AMG Line",
+   "cv": "204cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSBVAbaahQnvX-2YvvOKn2pzxj0bU6CVHXXmsa90nAoBDzAsAJ"
+ }
+]

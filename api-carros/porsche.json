@@ -1,0 +1,86 @@
+[
+{
+"modelo": "Coupé" ,
+"nome": "718 Cayman GT4" ,
+"cv": "420cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/982-718gt4-modelimage-sideshot/thumbwhite/3c0c6b3d-fa4e-11e9-80c6-005056bbdc38;sZ;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Coupé" ,
+"nome": "911 GT3 RS" ,
+"cv": "525cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/thumbwhite/d5f44326-1a15-11ed-80f5-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Sedan Esportivo" ,
+"nome": "Taycan Turbo S" ,
+"cv": "761cv",
+"motor": "elétrico",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-tu-s-modelimage-sideshot/thumbwhite/5acd794a-1f25-11ee-8103-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Sedan Esportivo" ,
+"nome": "Panamera Turbo S E-Hybrid" ,
+"cv": "700cv",
+"motor": "híbrido",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/971-g2-2nd-tus-hy-modelimage-sideshot/thumbwhite/5b5a1fb7-fd90-11ea-80ce-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "SUV" ,
+"nome": "Cayenne S" ,
+"cv": "474cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/e3-2nd-cayenne-s-modelimage-sideshot/thumbwhite/14da0541-e03e-11ed-8101-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "SUV" ,
+"nome": "Macan GTS" ,
+"cv": "440cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/pa3-gts-modelimage-sideshot/thumbwhite/53c319ab-de44-11eb-80d9-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "718 Spyder" ,
+"cv": "420cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/982-718spyder-modelimage-sideshot/thumbwhite/e9f11134-fa4e-11e9-80c6-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "718 Cayman GT4 RS" ,
+"cv": "500cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/982-718-cayman-gt4rs-modelimage-sideshot/thumbwhite/0700b82a-f3b8-11ed-8103-005056bbdc38;sZ;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Targa" ,
+"nome": "911 Targa 4 GTS" ,
+"cv": "480cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/992-ta4-gts-modelimage-sideshot/thumbwhite/0919d2fa-d31f-11eb-80d9-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Sport Turismo" ,
+"nome": "Panamera 4 E-Hybrid Sport Turismo" ,
+"cv": "330cv",
+"motor": "híbrido",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/971-g2-2nd-4-e-hy-st-modelimage-sideshot/thumbwhite/a85da7cb-fd8e-11ea-80ce-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cross Turismo" ,
+"nome": "Taycan 4S Cross Turismo" ,
+"cv": "571cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-4-cross-turismo-modelimage-sideshot/thumbwhite/65c6e13d-75d5-11eb-80d3-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cross Turismo" ,
+"nome": "Taycan 4 Cross Turismo" ,
+"cv": "476cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-4s-cross-turismo-modelimage-sideshot/thumbwhite/c293b6a1-75d5-11eb-80d3-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+}
+]

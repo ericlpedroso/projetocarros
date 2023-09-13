@@ -1,0 +1,226 @@
+[
+{
+"modelo": "Sedan" ,
+"nome": "BMW i7 xDrive60 M Sport" ,
+"cv": "544cv",
+"motor": "elétrico",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9WuPFN0aQoGawhCv3ydq7E2H8zlpI_bK7CcctPx260HGZADa1"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X6" ,
+"cv": "381cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfjBNpk93LpKgo2g1agalcHnFNSMw4LoKDuyqJc9cUNv5qzUF"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X5" ,
+"cv": "489cv",
+"motor": "híbrido",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-vQw6JVtr3GgGJKSM6ZD4yyYbJ6V5i9a6_zdxxC95SLvfD_D"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X4" ,
+"cv": "252cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKGRRGOJNn4yegOHmEFtojAP9CPXNlKND9JWR0gfixgLv2MZ1"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X3" ,
+"cv": "387cv",
+"motor": "híbrido",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GtTGxZdGyi09pPEy48kOu05WJus0FGKlMJcxUfCrh_GY8cah"
+},
+{
+"modelo": "SUV" ,
+"nome": "BMW X1" ,
+"cv": "156cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBKYw-H7rsNnNR0qvNbEJtZ8bBqb4arwu-m29DC8o6JrgejOdW"
+},
+{
+"modelo": "Sedan" ,
+"nome": "BMW M3 Competition" ,
+"cv": "510cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU_gAJpXmAUqVC417GxcXgT6YnUYosQzgCy4Q9TqWydSQPDqFh"
+},
+{
+"modelo": "Sedan" ,
+"nome": "BMW Série 5 Sedã" ,
+"cv": "427cv",
+"motor": "híbrido",
+"foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwUYTgxCoFMQK7RJd-KNrpflazEyAgsYdMvf14RNLk9llElZdW"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "BMW Série 4 Cabrio" ,
+"cv": "184cv",
+"motor": "combustão",
+"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7ucwKjbI41zYJ9Fs6RTevFuSb8jpcM2LcBW7t4ygnLKLzQnC"
+},
+{
+"modelo": "Sedan" ,
+"nome": "BMW i4" ,
+"cv": "544cv",
+"motor": "elétrico",
+"foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfKIA9Ec0Ljfv8KedoxbelYincCB4lEIIGjM_iuAfO2WuEyYVp"
+},
+{
+   "modelo": "Sedan",
+   "nome": "Mercedes EQE",
+   "cv": "245cv",
+   "motor": "Elétrico",
+   "foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJLGqBa9mj5T7UUDIYviCPIFAqLQJdM7fRGkF1c9F77fNKy0Vr"
+ },
+ {
+   "modelo": "Sedan",
+   "nome": "Mercedes EQS",
+   "cv": "658cv",
+   "motor": "Elétrico",
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa4iziOTWwsCIKtS5ZVA_O2-_lft3TsZdAYAkFFWYuQwxoShEz"
+ },
+ {
+   "modelo": "Sedan",
+   "nome": "Mercedes Classe A Sedan",
+   "cv": "320cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHKYtiDRRRogzISQ28UOwBTnBuwR2BcNK55Okd4w6waAufe5N"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes EQA",
+   "cv": "190cv",
+   "motor": "Elétrico",
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXaeAm_Q6YXpPjaWxULoiOs9wPZlau14qUt1H21NWVDDtXkdkX"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes GLA",
+   "cv": "163cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJFgDlJiHUSSnIslOWpaCpP3-184K-yOQuCCHzXu_M4Swupzq"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes GLC Coupé",
+   "cv": "258cv",
+   "motor": "Híbrido",
+   "foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgkhaoRx40JnGHTvj_00t8dNXD15LMwbB3-OvYCgtjMo9AuEAM"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "Mercedes GLS",
+   "cv": "367cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrvhZaJGg8noiZNp6Mv-bgHveQ5D8xb_mQ3wZfSM_NH0JszLyp"
+ },
+{
+   "modelo": "Hatch",
+   "nome": "Mercedes Classe A Hatch",
+   "cv": "163cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTIqHcFB3sZjhV6Lmnd-MI4dkny0BSUBEBQ1I-59ApTCXpQQuG"
+ },
+{
+   "modelo": "Coupé",
+   "nome": "Mercedes CLA Coupé",
+   "cv": "421cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQULOQwe-U1d_PBLYaYX_AwX8NfKIdYc07xlR8pQBXpLIdweO8x"
+ },
+{
+   "modelo": "Sedan",
+   "nome": "Mercedes C 200 AMG Line",
+   "cv": "204cv",
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSBVAbaahQnvX-2YvvOKn2pzxj0bU6CVHXXmsa90nAoBDzAsAJ"
+ },
+{
+"modelo": "Coupé" ,
+"nome": "718 Cayman GT4" ,
+"cv": "420cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/982-718gt4-modelimage-sideshot/thumbwhite/3c0c6b3d-fa4e-11e9-80c6-005056bbdc38;sZ;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Coupé" ,
+"nome": "911 GT3 RS" ,
+"cv": "525cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/thumbwhite/d5f44326-1a15-11ed-80f5-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Sedan Esportivo" ,
+"nome": "Taycan Turbo S" ,
+"cv": "761cv",
+"motor": "elétrico",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-tu-s-modelimage-sideshot/thumbwhite/5acd794a-1f25-11ee-8103-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Sedan Esportivo" ,
+"nome": "Panamera Turbo S E-Hybrid" ,
+"cv": "700cv",
+"motor": "híbrido",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/971-g2-2nd-tus-hy-modelimage-sideshot/thumbwhite/5b5a1fb7-fd90-11ea-80ce-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "SUV" ,
+"nome": "Cayenne S" ,
+"cv": "474cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/e3-2nd-cayenne-s-modelimage-sideshot/thumbwhite/14da0541-e03e-11ed-8101-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "SUV" ,
+"nome": "Macan GTS" ,
+"cv": "440cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/pa3-gts-modelimage-sideshot/thumbwhite/53c319ab-de44-11eb-80d9-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "718 Spyder" ,
+"cv": "420cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/982-718spyder-modelimage-sideshot/thumbwhite/e9f11134-fa4e-11e9-80c6-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "718 Cayman GT4 RS" ,
+"cv": "500cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/982-718-cayman-gt4rs-modelimage-sideshot/thumbwhite/0700b82a-f3b8-11ed-8103-005056bbdc38;sZ;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Targa" ,
+"nome": "911 Targa 4 GTS" ,
+"cv": "480cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/992-ta4-gts-modelimage-sideshot/thumbwhite/0919d2fa-d31f-11eb-80d9-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Sport Turismo" ,
+"nome": "Panamera 4 E-Hybrid Sport Turismo" ,
+"cv": "330cv",
+"motor": "híbrido",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/971-g2-2nd-4-e-hy-st-modelimage-sideshot/thumbwhite/a85da7cb-fd8e-11ea-80ce-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cross Turismo" ,
+"nome": "Taycan 4S Cross Turismo" ,
+"cv": "571cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-4-cross-turismo-modelimage-sideshot/thumbwhite/65c6e13d-75d5-11eb-80d3-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+},
+{
+"modelo": "Cross Turismo" ,
+"nome": "Taycan 4 Cross Turismo" ,
+"cv": "476cv",
+"motor": "combustão",
+"foto":"https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-4s-cross-turismo-modelimage-sideshot/thumbwhite/c293b6a1-75d5-11eb-80d3-005056bbdc38;sI;twebp/porsche-thumbwhite.webp"
+}
+]
