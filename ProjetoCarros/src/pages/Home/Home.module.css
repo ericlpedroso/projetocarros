@@ -1,0 +1,43 @@
+.home {
+    width: 100%;
+    min-height: 90vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.home img {
+    height: 300px;
+}
+.meca{
+    margin-left: 2.5em;
+}
+
+.home p {
+    font-size: 3rem; /* 48px */
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.home span {
+    color: var(--green);
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.projetos h2 {
+    text-align: center;
+}
+
+.lista {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-block: 1rem;
+}
